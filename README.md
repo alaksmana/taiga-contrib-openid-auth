@@ -6,6 +6,11 @@ An OpenID / Keycloak Authentication Plugin. Heavily based off of
 Compatible with Taiga 4.2.1
 
 # Installation
+
+```
+pip install taiga-contrib-openid-auth
+```
+
 ## Taiga Backend
 
 Clone the repo and
