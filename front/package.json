@@ -1,11 +1,11 @@
 {
   "name": "taiga-contrib-openid-auth",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Taiga contrib plugin for openid authentication",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/robrotheran/taiga-contrib-openid-auth"
+    "url": "https://github.com/alaksmana/taiga-contrib-openid-auth"
   },
   "keywords": [
     "openid",
@@ -13,7 +13,7 @@
     "authentication",
     "plugin"
   ],
-  "author": "Robert Fletcher",
+  "author": "Andre Laksmana",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/taigaio/taiga-contrib-github-auth/issues"
